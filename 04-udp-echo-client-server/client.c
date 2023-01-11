@@ -10,7 +10,7 @@
 #define PORT 5035
 
 int main(){
-  // socket descriptor creation in udp mode
+  // socket descriptor creation in udp mode h
   int serverDescriptor = socket(AF_INET, SOCK_DGRAM, 0);
   
   // for storing  address of address
