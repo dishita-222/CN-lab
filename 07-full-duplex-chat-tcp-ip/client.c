@@ -11,6 +11,7 @@
 //for gethostbyname
 #include "netdb.h"
 #include "arpa/inet.h"
+//main body starts later 
 
 int main()
 {
